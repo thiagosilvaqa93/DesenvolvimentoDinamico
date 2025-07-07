@@ -1,36 +1,37 @@
-# 💻 Desenvolvimento Dinâmico - Práticas de Aula
+# 💻 Dynamic Development - Classroom Practice
 
-Este repositório tem como principal objetivo armazenar os códigos desenvolvidos durante as aulas práticas da disciplina **Desenvolvimento Dinâmico**. O foco é aprimorar habilidades em diversos tópicos de front-end e consumo de APIs.
+This repository is primarily intended to store the code developed during the practical lessons of the **Dynamic Development** course. The focus is on improving skills in various front-end topics and API consumption.
 
-## 🎯 Tópicos abordados
+## 🎯 Topics Covered
 
-- Manipulação do DOM
-- Criação e remoção dinâmica de elementos
-- Aplicação de eventos e validações em formulários
-- Consumo de APIs de terceiros com JavaScript
+- DOM manipulation  
+- Dynamic creation and removal of elements  
+- Event handling and form validation  
+- Consumption of third-party APIs using JavaScript  
 
-## 📚 Organização do Repositório
+## 📚 Repository Organization
 
-- Cada pasta contém o código construído em aula.
-- O nome da pasta indica o número e tema do módulo.
-- Você pode acompanhar o progresso e identificar cada aula pelo **histórico de commits**.
+- Each folder contains the code built in class.  
+- The folder name indicates the module number and topic.  
+- You can track progress and identify each class using the **commit history**.
 
-> ⚠️ **Observação**: Os módulos 0, 15 e 16 não possuem práticas com código.
+> ⚠️ Note: Modules 0, 15, and 16 do not include practical code examples.
 
-## 💡 Destaque
+## 💡 Highlight
 
-O **Módulo 14 - Consumo de API** contém uma página web completa com diversos exemplos práticos, consolidando os conceitos desde o **Módulo 11 (HTML Básico)**.
+**Module 14 - API Consumption** includes a complete web page with several practical examples, consolidating the concepts introduced in **Module 11 (Basic HTML)**.
 
-## 🧰 Pré-requisitos
+## 🧰 Prerequisites
 
-Antes de começar, verifique se você possui:
-- ✅ Node.js (última versão para seu sistema operacional)
-- ✅ Editor de código (como VSCode — usado nas aulas)
-- ✅ Navegador moderno (Google Chrome recomendado)
+Before getting started, make sure you have:
 
-## 🚀 Como executar os exemplos
+✅ Node.js (latest version for your operating system)  
+✅ A code editor (such as VSCode — used in class)  
+✅ A modern browser (Google Chrome recommended)  
 
-Os arquivos `.js` podem ser executados de forma simples usando o plugin **Code Runner** no VSCode ou diretamente pelo terminal:
+## 🚀 How to Run the Examples
+
+The `.js` files can be easily executed using the **Code Runner** extension in VSCode or directly from the terminal:
 
 ```bash
-node nome-do-arquivo.js
+node file-name.js
